@@ -1,5 +1,5 @@
 div {
-    border-color: blue;
+    border: 5px blue solid;
     padding: 25px;
 }
 
