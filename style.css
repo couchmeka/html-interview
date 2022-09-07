@@ -1,0 +1,17 @@
+div {
+    border-color: blue;
+    padding: 25px;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    border-radius: 50px;
+}
+
+li {
+    margin: 10px;
+    font-style: italic;
+}
